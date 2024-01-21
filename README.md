@@ -1,4 +1,4 @@
-[/src
+``` [/src
 |-- /api
 | |-- storeAPI.js
 |-- /components
