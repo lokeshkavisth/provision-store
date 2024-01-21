@@ -22,6 +22,6 @@
 |-- /assets
 | |-- /images
 | | |-- pro.png
-|-- /api
+|-- /routes
 | |-- route.jsx
 ]
